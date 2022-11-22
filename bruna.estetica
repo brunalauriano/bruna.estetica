@@ -1,0 +1,24 @@
+
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <title>bruna.estetica</title>
+        <link rel="style.css" href="style.css">
+      
+        </head>
+
+         <body>
+             
+            <img id="bruna.estetica.png" src="bruna.estetica.png">
+
+            <h2>beneficios</h2>
+        <ul>
+            <li class_itens>Atendimento 24 horas</li>
+            <li class_itens>Profissionais qualificadas</li>
+            <li class_itens>Melhorando sua autoestima</li>
+            <li class_itens>Maquiagens, cabelos e unhas a domicílio</li>
+            <li class_itens>Maquiagens para: dia a dia, noite, festa, casamento, artística...</li>
+            </ul>
+        </body>
+      </html>
